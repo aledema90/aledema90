@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I focus on bridging product thinking and execution — turning ideas into working prototypes using AI, APIs, and lightweight tools.
 
-## 🎯 What I care about
+## What I care about
 
 - Building fast prototypes  
 - AI applied to real workflows  
@@ -28,14 +28,14 @@ I focus on bridging product thinking and execution — turning ideas into workin
 
 ---
 
-## 🚀 What I’m working on
+## What I’m working on
 
 - 🎨 'Figma to User Stories' Generator → reducing PM manual work  
 - 🎮 Game Recommender → applying product thinking to solving a gamer dilemma
 - 💼 Interactive resume → website for an interactive and pleasant way to show my story, interest and career progression
 
 
-## 🧠 Product Thinking
+## Product Thinking
 
 📌 Check my case studies on Github: 
 - https://github.com/aledema90/product-case-studies
@@ -45,7 +45,7 @@ I focus on bridging product thinking and execution — turning ideas into workin
 - [From "virtual intern" to "workspace brain" with Claude Code](https://www.linkedin.com/pulse/from-virtual-intern-workspace-brain-claude-code-alessandro-de-marchis-qpmtf/)
 
 
-## ⚙️ Tech I use
+## Tech I use
 
 - React / TypeScript  
 - APIs & AI tools
@@ -55,6 +55,6 @@ I focus on bridging product thinking and execution — turning ideas into workin
 
 ---
 
-## 📫 Let’s connect
+## Let’s connect
 
 - LinkedIn: https://linkedin.com/in/ademarchis
