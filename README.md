@@ -30,8 +30,8 @@ I focus on bridging product thinking and execution — turning ideas into workin
 
 ## 🚀 What I’m working on
 
-- 🎨 Figma → User Stories Generator → reducing PM manual work  
-- 🎮 Game Recommender → applying product thinking to discovery
+- 🎨 'Figma to User Stories' Generator → reducing PM manual work  
+- 🎮 Game Recommender → applying product thinking to solving a gamer dilemma
 - 💼 Interactive resume --> website for an interactive and pleasant way to show my story, interest and career progression
 
 
