@@ -34,18 +34,15 @@ I focus on bridging product thinking and execution — turning ideas into workin
 - 🎮 Game Recommender → applying product thinking to discovery
 - 💼 Interactive resume --> website for an interactive and pleasant way to show my story, interest and career progression
 
----
 
 ## 🧠 Product Thinking
 
 📌 Check my case studies:  
 👉 https://github.com/aledema90/product-case-studies
 
-
 - Figma → User Stories
 - Steam Recommender
 
----
 
 ## ⚙️ Tech I use
 
