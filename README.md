@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 
 I focus on bridging product thinking and execution — turning ideas into working prototypes using AI, APIs, and lightweight tools.
 
+## 🎯 What I care about
+
+- Building fast prototypes  
+- AI applied to real workflows  
+- Reducing friction in product teams  
+
+
 ---
 
 ## 🚀 What I’m working on
@@ -47,14 +54,6 @@ I focus on bridging product thinking and execution — turning ideas into workin
 - Cursor, Visual Studio Code
 - Claude Code
 - Lovable
-
----
-
-## 🎯 What I care about
-
-- Building fast prototypes  
-- AI applied to real workflows  
-- Reducing friction in product teams  
 
 ---
 
