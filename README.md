@@ -37,11 +37,12 @@ I focus on bridging product thinking and execution — turning ideas into workin
 
 ## 🧠 Product Thinking
 
-📌 Check my case studies:  
-👉 https://github.com/aledema90/product-case-studies
+📌 Check my case studies on Github: 
+- https://github.com/aledema90/product-case-studies
 
-- Figma → User Stories
-- Steam Recommender
+📌 Check my latest articles:
+- [I built a “virtual intern” using ChatGPT for better Product Thinking](https://www.linkedin.com/pulse/i-built-virtual-intern-using-chatgpt-better-product-why-de-marchis-8jbof/)
+- [From "virtual intern" to "workspace brain" with Claude Code](https://www.linkedin.com/pulse/from-virtual-intern-workspace-brain-claude-code-alessandro-de-marchis-qpmtf/)
 
 
 ## ⚙️ Tech I use
