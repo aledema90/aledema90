@@ -1,60 +1,61 @@
-<!--
-**aledema90/aledema90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I’m Alessandro
 
-**Tech Product Manager with a builder mindset**
+### Tech Product Manager — I don't just spec it, I build it.
+I bridge product thinking and execution. My workflow: understand the problem, prototype fast with AI and APIs, validate early, then scale with engineering.
 
-I focus on bridging product thinking and execution — turning ideas into working prototypes using AI, APIs, and lightweight tools.
+### 🧠 What I bring to the table
+- **PM with hands-on technical skills** — I prototype in React/TypeScript before writing a single spec
+- **AI-first mindset** — I build tools that reduce manual PM work and improve team efficiency
+- **Outcome-oriented** — every project I ship starts with a real problem and ends with a measurable result
+  
+---
 
-## What I care about
+### 🚀 Projects I've built or in progress
+#### 🎨 ['Figma to User Stories' Generator](https://github.com/aledema90/Figma-to-User-Stories-Generator)
+**Problem:** Writing user stories from Figma designs is slow and repetitive  
+**Solution:** AI-powered tool that reads Figma components and generates structured user stories  
+**Impact:** ~60% reduction in story-writing time (estimated)  
+**Stack:** React, Figma API, OpenAI API
 
-- Building fast prototypes  
-- AI applied to real workflows  
-- Reducing friction in product teams  
+#### 🎮 [Game Recommender](https://github.com/aledema90/steam-game-recommender)
+**Problem:** Gamers struggle to find their next game among thousands of options  
+**Solution:** Recommendation engine applying product thinking to personal taste mapping  
+**Stack:** React, steam APIs
 
+#### 📄 [Interactive Resume](https://scroll-resume.vercel.app/)
+**Problem:** Static PDFs don't show personality or progression  
+**Solution:** A web-based resume with interactive storytelling and career timeline  
+**Stack:** React, Vercel
+  
+> 💡 *This one shows better than it reads — [open it here](https://scroll-resume.vercel.app/)*
+
+
+### ✍️ Product Thinking — Articles & Case Studies
+
+📌 Recent articles I wrote:
+- [I built a "virtual intern" using ChatGPT for better Product Thinking](#)
+- [From "virtual intern" to "workspace brain" with Claude Code](#)
+
+📌 Case studies on GitHub:
+- [Product Case Studies Repository](https://github.com/aledema90/product-case-studies)
 
 ---
 
-## What I’m working on
 
-- 🎨 ['Figma to User Stories' Generator](https://github.com/aledema90/Figma-to-User-Stories-Generator) → reducing PM manual work  
-- 🎮 [Game Recommender](https://github.com/aledema90/steam-game-recommender) → applying product thinking to solving a gamer dilemma
-- 💼 Interactive resume → website for an interactive and pleasant way to show my story, interest and career progression 
+### 🛠️ Tech I use
 
-
-## Product Thinking
-
-📌 Check my case studies on Github: 
-- https://github.com/aledema90/product-case-studies
-
-📌 Check my latest articles:
-- [I built a “virtual intern” using ChatGPT for better Product Thinking](https://www.linkedin.com/pulse/i-built-virtual-intern-using-chatgpt-better-product-why-de-marchis-8jbof/)
-- [From "virtual intern" to "workspace brain" with Claude Code](https://www.linkedin.com/pulse/from-virtual-intern-workspace-brain-claude-code-alessandro-de-marchis-qpmtf/)
-
-
-## Tech I use
-
-- React / TypeScript  
-- APIs & AI tools
-- Cursor, Visual Studio Code
-- Claude Code
-- Lovable
+| Category | Tools |
+|---|---|
+| Frontend | React, TypeScript |
+| AI & Automation | Claude, ChatGPT, Claude Code |
+| Design | Figma |
+| Dev Environment | Cursor, VS Code, Lovable |
+| Deployment | Vercel |
 
 ---
 
-## Let’s connect
+### 📬 Let's connect
 
-- LinkedIn: https://linkedin.com/in/ademarchis
+- 💼 [LinkedIn](https://linkedin.com/in/ademarchis)
+- 🌐 [Interactive Resume](https://scroll-resume.vercel.app/)
+- 📍 Italy (open to remote)
