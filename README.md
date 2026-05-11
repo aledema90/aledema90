@@ -50,7 +50,7 @@ I bridge product thinking and execution. My workflow: understand the problem, pr
 | Frontend | React, TypeScript |
 | AI & Automation | Claude, ChatGPT, Claude Code |
 | Design | Figma |
-| Dev Environment | Cursor, VS Code, Lovable |
+| IDE | Cursor, VS Code |
 | Deployment | Vercel |
 
 ---
