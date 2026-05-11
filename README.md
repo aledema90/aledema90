@@ -35,6 +35,7 @@ I bridge product thinking and execution. My workflow: understand the problem, pr
 📌 Recent articles I wrote:
 - [I built a "virtual intern" using ChatGPT for better Product Thinking](#)
 - [From "virtual intern" to "workspace brain" with Claude Code](#)
+- [AI as an Execution Layer - I spent one week Automating My Product Management workflow]([url](https://www.linkedin.com/pulse/ai-execution-layer-i-spent-one-week-automating-my-de-marchis-h0g0f/?trackingId=HNXgWK%2FzR36LxivX3fO1sQ%3D%3D))
 
 📌 Case studies on GitHub:
 - [Product Case Studies Repository](https://github.com/aledema90/product-case-studies)
