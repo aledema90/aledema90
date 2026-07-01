@@ -22,6 +22,8 @@ I bridge product thinking and execution. My workflow: understand the problem, pr
 **Solution:** Recommendation engine applying product thinking to personal taste mapping  
 **Stack:** React, steam APIs
 
+> 💡 *[Find what to play next](https://my-steam-app.vercel.app/)
+
 #### 👶 [Baby Journal](https://github.com/aledema90/tiny-care-log)
 **Problem:** New parents need a fast, reliable way to track feedings, sleep, and supplements without juggling notebooks or generic apps  
 **Solution:** A focused daily log for baby care — feeding, sleep, and supplement tracking with clear daily summaries  
