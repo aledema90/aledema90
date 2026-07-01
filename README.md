@@ -22,6 +22,13 @@ I bridge product thinking and execution. My workflow: understand the problem, pr
 **Solution:** Recommendation engine applying product thinking to personal taste mapping  
 **Stack:** React, steam APIs
 
+#### 👶 [Baby Journal](https://github.com/aledema90/tiny-care-log)
+**Problem:** New parents need a fast, reliable way to track feedings, sleep, and supplements without juggling notebooks or generic apps  
+**Solution:** A focused daily log for baby care — feeding, sleep, and supplement tracking with clear daily summaries  
+**Stack:** React, TypeScript, Vercel
+
+> 💡 *[Try the live app here](https://baby-journal-alpha.vercel.app/)*
+
 #### 📄 [Interactive Resume](https://scroll-resume.vercel.app/)
 **Problem:** Static PDFs don't show personality or progression  
 **Solution:** A web-based resume with interactive storytelling and career timeline  
